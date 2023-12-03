@@ -1,6 +1,6 @@
 import re
 
-with open("inputs/1/dirty_calibration") as f:
+with open("dirty_calibration") as f:
     lines = f.readlines()
 
 LUT = {
